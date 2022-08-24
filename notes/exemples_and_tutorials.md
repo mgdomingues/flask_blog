@@ -23,5 +23,7 @@
 - [ver - blog.teclado.com](https://blog.teclado.com/build-own-blog-platform-flask-python-part-1/)
 
 
+## other stuff
 
+- [web scrapper to flask](https://www.youtube.com/watch?v=ukVjagiXJzw)
 

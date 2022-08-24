@@ -13,7 +13,7 @@
 
 ## blogs:
 
-- [ver - mainblog tutorial - blog.miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [ver - main blog tutorial - blog.miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 - [ver - https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd](https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd)
 

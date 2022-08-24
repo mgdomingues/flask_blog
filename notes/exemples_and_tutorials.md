@@ -13,10 +13,10 @@
 
 ## blogs:
 
-- [ver](https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd)
+- [ver - https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd](https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd)
 
-- [ver](https://blog.teclado.com/build-own-blog-platform-flask-python-part-1/)
+- [ver - blog.teclado.com](https://blog.teclado.com/build-own-blog-platform-flask-python-part-1/)
 
-- [ver](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [ver - blog.miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 

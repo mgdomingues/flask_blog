@@ -3,7 +3,7 @@
 
 ## Videos:
 
-- [ver - main tutorial full flask blog tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [ver - main video tutorial - full flask blog tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 
 - [ver - simple blog version](https://www.youtube.com/watch?v=XHGpPCYmPvI)
 
@@ -13,10 +13,12 @@
 
 ## blogs:
 
+- [ver - mainblog tutorial - blog.miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
 - [ver - https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd](https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd)
 
 - [ver - blog.teclado.com](https://blog.teclado.com/build-own-blog-platform-flask-python-part-1/)
 
-- [ver - blog.miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
 
 

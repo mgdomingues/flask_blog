@@ -3,9 +3,9 @@
 
 ## Videos:
 
-- [ver - main tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [ver - main tutorial full flask blog tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 
-- [ver](https://www.youtube.com/watch?v=XHGpPCYmPvI)
+- [ver - simple blog version](https://www.youtube.com/watch?v=XHGpPCYmPvI)
 
 - [ver](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 

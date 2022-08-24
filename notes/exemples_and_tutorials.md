@@ -1,5 +1,8 @@
 
-# exemples and tutorials
+# examples and tutorials
+
+## Setup PyCharm
+- [ver]( https://www.youtube.com/watch?v=bZUokrYanFM )
 
 ## Videos:
 
